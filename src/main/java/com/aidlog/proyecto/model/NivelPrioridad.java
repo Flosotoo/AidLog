@@ -1,5 +1,8 @@
 package com.aidlog.proyecto.model;
 
-public class NivelPrioridad {
+public enum NivelPrioridad {
+    Alta,
+    Media,
+    Baja
 
 }
